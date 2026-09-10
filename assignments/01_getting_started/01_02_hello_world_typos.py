@@ -1,8 +1,8 @@
 '''
-print this sucks!
+Print this sucks!
 I have no real prior coding experience.
-Learning coding is very hard for me but I one day want to become a python master.
+Learning coding is very hard for me, but I one day want to become a Python master.
 I NEED THE POWER OF THE PHYTHON.
-I thought I had the power of python, I guess not with a c! 
-hello world! 
+I thought I had the power of python; I guess not with C!
+Hello world! 
 '''

@@ -8,32 +8,32 @@ shirts = "t-shirts"
 jackets = "hoodies"
 numbers = [1, 2, 3, 4, 5]
 
-print("Is cake == 'chocolate'? I predict True.")
+print("Is cake == 'chocolate'? This is True.")
 print(cake == "chocolate")
 
-print("\nIs cereal == 'Frosted Flakes'? I predict True.")
+print("\nIs cereal == 'Frosted Flakes'? This is True.")
 print(cereal == "Frosted Flakes")
 
-print("\nIs seafood == 'shrimp'? I predict True.")
+print("\nIs seafood == 'shrimp'? This is True.")
 print(seafood == "shrimp")
 
-print("\nIs barbeque == 'chicken'? I predict True.")
+print("\nIs barbeque == 'chicken'? This is True.")
 print(barbeque == "chicken")
 
-print("\nIs pants == 'jeans'? I predict True.")
+print("\nIs pants == 'jeans'? This is True.")
 print(pants == "jeans")
 
-print("\nIs cake == 'vanilla'? I predict False.")
+print("\nIs cake == 'vanilla'? This is False.")
 print(cake == "vanilla")
 
-print("\nIs cereal == 'Cheerios'? I predict False.")
+print("\nIs cereal == 'Cheerios'? This is False.")
 print(cereal == "Cheerios")
 
-print("\nIs seafood == 'salmon'? I predict False.")
+print("\nIs seafood == 'salmon'? This is True.")
 print(seafood == "salmon")
 
-print("\nIs jackets == 'leather'? I predict False.")
+print("\nIs jackets == 'leather'? This is False.")
 print(jackets == "leather")
 
-print("\nIs 6 in numbers? I predict False.")
+print("\nIs 6 in numbers? I predict True.")
 print(6 in numbers)

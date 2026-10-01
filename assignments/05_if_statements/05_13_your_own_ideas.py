@@ -10,7 +10,7 @@
 # complete challenges, and unlock new characters.
 
 # 3. Create a program that helps artists organize their characters,
-# drawings, animation projects, and ideas.
+# drawings, animation projects, and ideas that focus on black hair and has models to show different hairstyles and colors.
 
 # 4. Explore datasets about video games and animation to see
 # how games and animation, effects adolescence's emotions.

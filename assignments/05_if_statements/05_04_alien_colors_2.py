@@ -1,4 +1,7 @@
 ''''''''
+#Ciani Mason
+# This was simple, I may have been tired thats why I was confused, 
+# 6/10
 alien_color = 'green'
 
 if alien_color == 'green':

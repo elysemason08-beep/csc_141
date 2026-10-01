@@ -1,4 +1,8 @@
 ''''''
+# Ciani Mason 
+# Ok this is easy to understand Like the concept but so hard to write naturally.
+# I pause A lot while writing but, After I practiced the ==, > < signs It was easier
+# 8/10 because of the time I spent
 age = 18
 
 if age < 2:

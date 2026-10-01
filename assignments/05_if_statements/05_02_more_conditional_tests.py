@@ -1,4 +1,7 @@
 ''''''
+#Ciani Mason
+# Yes no I was confused trying out the new number signs, 
+# I had to re read the book a lot so about a 8/10 at first because of the time spent.
 clothes = 'Scarfs'
 
 print(clothes == 'Scarfs')

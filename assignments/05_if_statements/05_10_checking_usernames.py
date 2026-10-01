@@ -1,5 +1,7 @@
 ''''''
 # Ciani Mason
+# The lower part somtimes confuses me because it's already in lower case.
+# difficulty 7/10
 current_users = ['admin', 'deathbringer225', 'csacademy225', 'pretty_cicic225', 'UnderDaC221']
 
 new_users = ['admin', 'MangoQueen', 'deathbringer225', 'AnimeGirl', 'Cici225']

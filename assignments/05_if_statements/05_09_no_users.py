@@ -1,5 +1,8 @@
 ''''''
 usernames = []
+# Caini Mason
+# 8/10 difficualty B
+# because I just didnt understand why no username, but Ai informed that it's for new gamer users to make their own and look for users.
 
 if usernames:
    for username in usernames:

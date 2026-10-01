@@ -1,4 +1,7 @@
 ''''''
+# Ciani Mason
+# This was tedious, also I couldnt envision it at first 
+# 7/10 for beig tredious.
 cake = "chocolate"
 cereal = "Frosted Flakes"
 seafood = "shrimp"

@@ -1,4 +1,7 @@
 ''''''
+# Ciani Mason
+# I dont always get the if but after reading , writing the code was bad id say
+# 5/10 difficulty.
 favorite_fruits = ['mangoes', 'strawberries', 'kiwi']
 
 if 'mangoes' in favorite_fruits:

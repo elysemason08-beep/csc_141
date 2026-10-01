@@ -10,13 +10,14 @@
 # drawings, animation projects, and ideas.
 
 # 4. Explore datasets about video games and animation to see
-# which games or animated shows are the most popular.
+# how games and animation, effects adolescence's emotions.
 
-# 5. Create a web application where artists can share their artwork
-# and connect with other creators.
+# 5. Create a web application where artists 
+# and connect with other creators and add to their art for money.
+# an example would a disney artist putting up a artwork and saying, whoever colors this the best ill give 10$.
 
-# 6. Create an anime-style game with original characters,
+# 6. Create an anime-style game with original characters that is based on peoples emotional growth.
 # abilities, levels, and an original story.
 
 # 7. Create my own animation website or application where people
-# can watch and create animated projects.xs
+# can interact with the animated cahracters and scences.

@@ -1,4 +1,7 @@
 ''''''
+# Ciani Mason
+# This was easier
+# 3/10
 usernames = ['admin', 'deathbringer225', 'csacademy225', 'pretty_cicic225', '215peanutdh', 'UnderDaC221']
 
 for username in usernames:

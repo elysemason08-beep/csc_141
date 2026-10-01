@@ -1,4 +1,7 @@
 ''''''
+# Ciani Mason
+# This was easier but I had to have a good story flow.
+# 4/10
 alien_color = 'red'
 
 print("An alien has just been shot down!")

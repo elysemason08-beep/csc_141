@@ -1,4 +1,7 @@
 ''''''
+# Ciani Mason 
+# This program was easier and helped me think about future animated ideas i'd like to explore.
+# this was refreshing 4/10 difficulty level just because I wasnt sure about the langauged used.
 # 5-13.Your Ideas
 
 # 1. Create my own animation program for making short animated scenes and characters.

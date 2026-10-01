@@ -1,4 +1,7 @@
 ''''''
+# Ciani Mason
+# This was about a 6/10 for me, because It was a built of of what we done, thats good but I tend to forgot to put ' elif'.
+
 alien_color = 'green'
 
 if alien_color == 'green':

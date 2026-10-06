@@ -1,7 +1,7 @@
 ''''''
 # Ciani Mason
 # This was a 5/10
-# I had to reeber the for rivers in rivers.tiems part
+# I had to remember the for rivers in rivers.items() part
 rivers = {
     "Nile": "Egypt",
     "Amazon": "Brazil",

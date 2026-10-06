@@ -1,7 +1,7 @@
 ''''''
 #Ciani Mason 
 # This was just a little tedious I liked it because
-# I got to actaully practice what I just learned and modify it.
+# I got to actually practice what I just learned and modify it.
 favorite_numbers = {
     "Ciani": [7, 6],
     "Amber": [3, 2],

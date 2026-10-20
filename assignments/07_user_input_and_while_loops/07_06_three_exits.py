@@ -1,6 +1,6 @@
 ''''''
 # Ciani Mason,
-# Difficulty level
+# Difficulty level 3/10 
  
 prompt = "what age is your family member Type quit when finished: "
 age = ""

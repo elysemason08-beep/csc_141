@@ -1,6 +1,6 @@
 ''''''
 # Ciani Mason,
-# Difficulty level 
+# Difficulty level  3/10
 
 dream_vacations = {}
 

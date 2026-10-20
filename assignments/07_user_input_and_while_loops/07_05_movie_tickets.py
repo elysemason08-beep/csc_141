@@ -1,5 +1,5 @@
 ''''''
-# Ciani Mason,
+# Ciani Mason, 4/10
 # Difficulty level, im really learning on how to break the instructions down
 # I sometimes start my code with copying the book and that be wrong so I struggle with 
 # have the code structure right

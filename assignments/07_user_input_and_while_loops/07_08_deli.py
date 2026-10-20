@@ -1,6 +1,6 @@
 ''''''
 # Ciani Mason,
-# Difficulty level
+# Difficulty level 5/10
 
 sandwich_orders = ["tuna", "ham", "turkey", "cheese"]
 finished_sandwiches = []

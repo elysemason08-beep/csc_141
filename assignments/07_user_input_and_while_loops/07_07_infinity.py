@@ -1,6 +1,6 @@
 ''''''
 # Ciani Mason,
-# Difficulty level
+# Difficulty level 6/10
 
 
 print("Welcome to the Unlimited Money Machine!")

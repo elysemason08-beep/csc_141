@@ -1,4 +1,7 @@
-
+''''''
+# Ciani Mason
+# Difficulty level 6/10
+# I just was a little confused but I understood this, after about 4 tries
 import matplotlib.pyplot as plt
 
 x_values = range(1, 5001)

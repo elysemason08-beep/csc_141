@@ -1,6 +1,6 @@
 ''''''
 #Ciani Mason
-# difficulty
+# difficulty 7/10
 
 import matplotlib.pyplot as plt
 

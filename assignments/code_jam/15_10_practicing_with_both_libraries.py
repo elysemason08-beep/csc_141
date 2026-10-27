@@ -2,6 +2,7 @@
 # IM SICK AND TIRED SEE YOU IN OFFICE HOURS TMR I HATE THAT I DONT UNDERSTAND THIS CHAPTER
 # Ciani Mason
 
+# im tired and sick
 import matplotlib.pyplot as plt
 from die import Die
 

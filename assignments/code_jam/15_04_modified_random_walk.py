@@ -1,6 +1,6 @@
 ''''''
 # Ciani Mason
-# Difficulty level 2/10
+# Difficulty level 2/10 tuh
 
 import matplotlib.pyplot as plt
 from random_walk import RandomWalk

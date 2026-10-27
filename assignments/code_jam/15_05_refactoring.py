@@ -1,6 +1,7 @@
 ''''''
 #ciani mason
 # difficulty 9/10 I WAS SICK TRYNA GET THIS TO DISPLAY RIGHT.
+# It very pretty through this was worth it.
 from random import choice
 
 

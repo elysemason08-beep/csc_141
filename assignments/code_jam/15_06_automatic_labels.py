@@ -1,18 +1,20 @@
 ''''''
 # Ciani Mason
-#
+# difficulty This was hard but I recieved helped in office hours so 2/10
 
-frequencies = []
-poss_results = range(1, die.num_sides + 1)
 
-''''''
-#
 import plotly.express as px
-from assignments.code_jam.die import Die
+from die import Die
+
 
 die_1 = Die(8)
 die_2 = Die(8)
 results = []
+
+
+frequencies = []
+poss_results = range(1, die_1.num_sides + 1)
+
 
 
 for roll_num in range(1000):
@@ -43,7 +45,7 @@ fig = px.bar(
 fig.update_layout(xaxis_dtick=1)
 fig.show()
 
-import matplotlib.pyplot as plt
+
 
 rw = RandomWalk()
 rw.fill_walk()

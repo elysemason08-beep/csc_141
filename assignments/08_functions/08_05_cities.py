@@ -11,3 +11,4 @@ def describe_city(city, country = 'Ghana'):
 describe_city('Philadelphia')
 describe_city('Savannah', 'Gerogia')
 describe_city('kiev','Ukraine')
+describe_city(country = 'Ukraine', city = 'Kieve')

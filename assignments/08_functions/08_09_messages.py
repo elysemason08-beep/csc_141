@@ -1,13 +1,15 @@
-''''''
-def show_message():
-    """Prints a message."""
-    print("Ciani wants to learn python correctly!")
+'''''''
+# Ciani Mason 3/10
+def show_messages(messages):
+    """Prints each message."""
+    for message in messages:
+        print(message)
 
 
-def show_message_with_name(name):
-    """Prints a message with the given name."""
-    print(f"{name} wants to learn python correctly!")
+messages = [
+    "Ciani is learning about python functions!",
+    "I want to become better at coding!",
+    "Python is fun to learn!"
+]
 
-def show_message():
-    """prints a message"""
-    print("Ciani is learning about python functions!")
+show_messages(messages)

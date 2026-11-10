@@ -1,6 +1,6 @@
 ''''''
 # Ciani Mason
-# 6/10 diffuclty
+# 6/10 difficulty
 
 class User:
     def __init__(self, first_name, last_name, age, location, email):

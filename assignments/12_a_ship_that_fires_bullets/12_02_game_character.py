@@ -8,7 +8,7 @@ class GameCharacter:
         self.screen = screen
 
         # Load the character image
-        self.image = pygame.image.load("character.png")
+        self.image = pygame.image.load("assignments/12_a_ship_that_fires_bullets/images/character.png")
 
         # Resize the image
         self.image = pygame.transform.scale(

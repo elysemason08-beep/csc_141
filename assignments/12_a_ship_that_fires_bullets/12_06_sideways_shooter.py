@@ -2,24 +2,21 @@
 import sys
 import pygame
 
-from settings import Settings
-from ship import Ship
-from bullet import Bullet
+from sideways_ship import SidewaysShip
+from sideways_bullet import SidewaysBullet
 
 
 class AlienInvasion:
-    """Overall class to manage the game."""
+    """Overall class to manage the sideways shooter."""
 
     def __init__(self):
         pygame.init()
 
         self.clock = pygame.time.Clock()
-        self.settings = Settings()
-
         self.screen = pygame.display.set_mode((800, 700))
         pygame.display.set_caption("Sideways Shooter")
 
-        self.ship = Ship(self)
+        self.ship = SidewaysShip(self)
         self.bullets = pygame.sprite.Group()
 
         self.bg_color = (0, 100, 100)
@@ -64,7 +61,7 @@ class AlienInvasion:
 
     def _fire_bullet(self):
         """Create a bullet and add it to the group."""
-        new_bullet = Bullet(self)
+        new_bullet = SidewaysBullet(self)
         self.bullets.add(new_bullet)
 
     def _update_screen(self):

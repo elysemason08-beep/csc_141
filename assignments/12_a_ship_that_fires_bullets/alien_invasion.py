@@ -1,5 +1,6 @@
 
 import sys
+from typing import Self
 import pygame
 from settings import Settings
 from ship import Ship
@@ -61,12 +62,12 @@ class AlienInvasion:
                    self.ship.moving_left = False
 
             # Redraw the screen during each pass through the loop.
-    self.screen.fill(self.settings.bg_color)
-    self.ship.blitme()
+                self.screen.fill(self.settings.bg_color)
+        self.ship.blitme()
 
             # Make the most recently drawn screen visible.
     pygame.display.flip()
-    self.clock.tick(60)
+    Self.clock.tick(60)
 
 
 if __name__ == '__main__':

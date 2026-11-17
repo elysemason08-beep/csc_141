@@ -3,7 +3,7 @@ import pygame
 import sys
 # I got help with this aye ! 
 
-class AlienInvasion:
+class GameCharacter:
     def __init__(self, screen):
         self.screen = screen
 
@@ -12,8 +12,7 @@ class AlienInvasion:
 
         # Resize the image
         self.image = pygame.transform.scale(
-            self.image, (300, 450)
-        )
+            self.image, (300, 450)  )        
 
         # Get the rectangle around the image
         self.rect = self.image.get_rect()
